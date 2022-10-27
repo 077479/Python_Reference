@@ -1,6 +1,6 @@
 # 4 Extending Built-In functions
 ## 4.1 Basics
-- often instead of a new data_type object that has a search or data access method a built_in data structure is inherited and the needed functionality is added
+- often instead of creating a new data_type object that has a search or data access method a built_in data structure is inherited and the needed functionality is added
 - a class that inherits from a built_in behaves exact the same plus the added functionality
 - e.g.
 ````python
