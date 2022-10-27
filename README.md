@@ -1,6 +1,6 @@
 # Python Reference by 077479
 # Outline
-- Part-I Core
+- [Part-I Core](https://github.com/077479/Python_Reference/tree/master/Part-I-Core)
     - 1 Basics
     - 2 Flow Control
     - 3 Functions and Lambda
@@ -11,7 +11,7 @@
     - 8 File Operations
     - 9 Exceptions
 
-- Part-II Advanced
+- [Part-II Advanced](https://github.com/077479/Python_Reference/tree/master/Part-II-Advanced)
     - 1 Functions To Know
     - 2 Dunder Methods
     - 3 Comprehensions
@@ -26,14 +26,14 @@
     - 12 Context Managers
     - 13 Concurrency
 
-- Part-III OOP
+- [Part-III OOP](https://github.com/077479/Python_Reference/tree/master/Part-III-OOP)
     - 1 Basics
     - 2 Classes and Objects
     - 3 Inheritance
     - 4 Extending Built-Ins
     - 5 OOP Tips
 
-- Part-IV Testing
+- [Part-IV Testing](https://github.com/077479/Python_Reference/tree/master/Part-IV-Testing)
     - 1 Basics
     - 2 Unit Tests
     - 3 Integration Tests
@@ -43,20 +43,20 @@
     - 7 Test Driven Development
     - 8 Mocking
 
-- Part-V Documentation
+- [Part-V Documentation](https://github.com/077479/Python_Reference/tree/master/Part-V-Documentation)
     - 1 Basics
 
-- Part VI Modules
+- [Part VI Modules](https://github.com/077479/Python_Reference/tree/master/Part-VI-Modules)
     - 1 Argparse
     - 2 Tkinter
 
-- Part VII Packageing
+- [Part VII Packageing](https://github.com/077479/Python_Reference/tree/master/Part-VII-Packaging)
     - 1 Basics
     - 2 Packaging Flow
     - 3 Config File
     - 4 Setup Tools Guide
 
-- Part VIII Design Patterns
+- [Part VIII Design Patterns](https://github.com/077479/Python_Reference/tree/master/Part-VIII-Design_Patterns)
     - 1 Basics
     - Behavioral Patterns
         - 1 Basics
