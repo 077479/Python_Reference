@@ -1,2 +1,4 @@
 .*
 !/.gitignore
+./Part-VI-Modules/03_pyqt
+./ToDo.md
