@@ -1,6 +1,0 @@
-- PyQt:
-    - https://www.tutorialspoint.com/pyqt/index.htm
-    - https://realpython.com/python-pyqt-gui-calculator/#widgets
-    - https://www.pythonguis.com/tutorials/creating-your-first-pyqt-window/
-    - https://build-system.fman.io/pyqt5-tutorial
-    - https://www.guru99.com/pyqt-tutorial.html
